@@ -59,9 +59,19 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![wx 1](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150985832/734a37c4-fcc4-4573-8a3d-1842e1ea9e04)
 
-### Name: 
-### Register Number:
+![wx2](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150985832/010f2557-2834-4ff4-8223-d4137471b21b)
+
+![wx3](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150985832/9d54c707-be21-4edb-b061-ae7c62dd0742)
+
+![wx 4](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150985832/7528ce2b-ae2d-4869-8329-fc348cd813e5)
+
+![238123950-e00b82b4-9aff-400f-9c57-288254dc3cd2](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150985832/be64002a-c7dc-40dd-bf4f-5d4cdfda37dd)
+
+
+### Name: Rithik V
+### Register Number: 23014287
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
